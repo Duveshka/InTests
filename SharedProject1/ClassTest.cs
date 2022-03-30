@@ -1,5 +1,4 @@
-﻿
-namespace SharedProject1
+﻿namespace SharedProject1
 {
     public class ClassTest
     {
@@ -20,5 +19,8 @@ namespace SharedProject1
 
     }
 
+    internal class fe
+    {
 
+    }
 }
